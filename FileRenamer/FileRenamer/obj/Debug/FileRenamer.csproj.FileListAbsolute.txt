@@ -1,0 +1,13 @@
+D:\Development\Dropbox\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe.config
+D:\Development\Dropbox\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+D:\Development\Dropbox\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+D:\Development\Dropbox\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
+D:\Development\Dropbox\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
+D:\Development\Dropbox\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
+D:\J.J\Development\Dropbox\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe.config
+D:\J.J\Development\Dropbox\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+D:\J.J\Development\Dropbox\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+D:\J.J\Development\Dropbox\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
+D:\J.J\Development\Dropbox\FileRenamer\FileRenamer\obj\Debug\FileRenamer.csproj.CoreCompileInputs.cache
+D:\J.J\Development\Dropbox\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
+D:\J.J\Development\Dropbox\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
